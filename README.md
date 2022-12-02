@@ -21,7 +21,7 @@ ln -s ./rusk-wallet /usr/local/bin
 
 ## stake işlemimizi yapıyoruz bu kodla cüzdanımızı kendi nodemuz üzerinden çalıştırıyoruz doğal olarak stake ve ödül çekme işlemlerini yapabiliyoruz. isteyen yapanilir
 ```
-cd cd rusk-wallet0.13.0-linux-x64-libssl3/
+cd rusk-wallet0.13.0-linux-x64-libssl3/
 ```
 ```
 ./rusk-wallet --state http://127.0.0.1:8585
