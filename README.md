@@ -14,6 +14,8 @@ ln -s ./rusk-wallet /usr/local/bin
 ```
 
 # /////////////////////////// DUSK SİLME \\\\\\\\\\\\\\\\\\\\\\\ 
+
+not: silmeden önce cüzdanın yedeğini alın /root/.dusk/rusk-wallet/ içersindeki keys cpk nın 
 ```
 service dusk stop & service rusk stop & rm -rf /opt/dusk 
 ```
