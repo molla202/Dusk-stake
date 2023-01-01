@@ -13,8 +13,10 @@ cd rusk-wallet0.13.0-linux-x64-libssl3
 ln -s ./rusk-wallet /usr/local/bin
 ```
 
-
-
+# /////////////////////////// DUSK SİLME \\\\\\\\\\\\\\\\\\\\\\\ 
+```
+service dusk stop & service rusk stop & rm -rf /opt/dusk 
+```
 
 # Dusk-stake
 
